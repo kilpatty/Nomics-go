@@ -2,7 +2,7 @@ The Unofficial [Nomics](https://nomics.com/) API client for [Go](https://golang.
 
 ## Documentation
 
-[https://godoc.org/github.com/kilpatty/nomics-go](https://godoc.org/github.com/kilpatty/nomics-go)
+[https://godoc.org/github.com/kilpatty/nomics-go/nomics](https://godoc.org/github.com/kilpatty/nomics-go/nomics)
 
 ## Install
 
