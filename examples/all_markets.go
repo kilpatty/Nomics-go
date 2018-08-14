@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
+
+	"github.com/kilpatty/nomics-go/nomics"
 )
 
 func main() {
